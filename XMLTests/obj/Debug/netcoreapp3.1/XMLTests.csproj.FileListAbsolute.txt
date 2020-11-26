@@ -1,0 +1,17 @@
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.exe
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.deps.json
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.runtimeconfig.json
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.runtimeconfig.dev.json
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.dll
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\XMLTests.pdb
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.AssemblyInfoInputs.cache
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.AssemblyInfo.cs
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.csproj.CoreCompileInputs.cache
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.dll
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.pdb
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.genruntimeconfig.cache
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\Database.exe
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\Database.dll
+C:\home\XMLTests\bin\Debug\netcoreapp3.1\Database.pdb
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.csproj.CopyComplete
+C:\home\XMLTests\obj\Debug\netcoreapp3.1\XMLTests.csprojAssemblyReference.cache

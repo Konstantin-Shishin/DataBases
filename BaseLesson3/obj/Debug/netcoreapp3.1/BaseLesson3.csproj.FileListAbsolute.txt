@@ -1,0 +1,12 @@
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.exe
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.deps.json
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.runtimeconfig.json
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.runtimeconfig.dev.json
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.dll
+C:\home\BaseLesson3\bin\Debug\netcoreapp3.1\BaseLesson3.pdb
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.AssemblyInfoInputs.cache
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.AssemblyInfo.cs
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.csproj.CoreCompileInputs.cache
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.dll
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.pdb
+C:\home\BaseLesson3\obj\Debug\netcoreapp3.1\BaseLesson3.genruntimeconfig.cache

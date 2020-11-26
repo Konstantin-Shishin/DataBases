@@ -1,0 +1,13 @@
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.exe
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.dll
+C:\home\Lesson6\bin\Debug\netcoreapp3.1\Database.pdb
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.dll
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.pdb
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
+C:\home\Lesson6\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache

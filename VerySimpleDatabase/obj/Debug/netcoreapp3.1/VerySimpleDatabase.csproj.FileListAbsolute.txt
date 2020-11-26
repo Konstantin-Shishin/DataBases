@@ -1,0 +1,12 @@
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.exe
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.deps.json
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.runtimeconfig.json
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.runtimeconfig.dev.json
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.dll
+C:\home\VerySimpleDatabase\bin\Debug\netcoreapp3.1\VerySimpleDatabase.pdb
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.AssemblyInfoInputs.cache
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.AssemblyInfo.cs
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.csproj.CoreCompileInputs.cache
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.dll
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.pdb
+C:\home\VerySimpleDatabase\obj\Debug\netcoreapp3.1\VerySimpleDatabase.genruntimeconfig.cache
